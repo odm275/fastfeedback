@@ -1,4 +1,5 @@
 import { AuthProvider } from '@/lib/auth';
+import { Global, css } from '@emotion/react';
 import { ChakraProvider, CSSReset } from '@chakra-ui/react';
 import theme from '@/styles/theme';
 
